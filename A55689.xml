@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Present and future condition of Germany giving a full account ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55689</idno>
+            <idno type="STC">Wing P3234</idno>
+            <idno type="STC">ESTC R10214</idno>
+            <idno type="EEBO-CITATION">12091376</idno>
+            <idno type="OCLC">ocm 12091376</idno>
+            <idno type="VID">53898</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55689)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53898)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 820:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Present and future condition of Germany giving a full account ...</title>
+               </titleStmt>
+               <extent>11 p. : ill., diagr.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. A. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>(from t.p.) I. Of the Turks advance into Christendom, and the grounds of those disturbances in Hungary, which occasion'd it -- II. A description of the city of Vienna, and the siege thereof -- III. The grand seignoirs nativity calculated, and the success of this expedition probably conjectured -- IV. Several predictions relating to the present posture of affairs in Europe.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Germany --  History --  1648-1740.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53898:1"/>
+            <!-- PDF PAGE 68 -->
+            <pb facs="tcp:53898:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <p>THE PRESENT and FUTURE CONDITION OF GERMANY.</p>
+            <p>Giving a full ACCOUNT
+<list>
+                  <item>1. <hi>Of the</hi> Turks <hi>Advance into</hi> Chriſtendom, <hi>and the Grounds of thoſe Diſturbances in</hi> Hun<g ref="char:EOLhyphen"/>gary, <hi>which occaſion'd it.</hi>
+                  </item>
+                  <item>2. <hi>A Deſcription of the City</hi> VIENNA, <hi>and the Siege thereof.</hi>
+                  </item>
+                  <item>3. <hi>The Grand Seigniors</hi> Nativity <hi>Calculated, and the</hi> Succeſs <hi>of this Expedition probably conjectu<g ref="char:EOLhyphen"/>red.</hi>
+                  </item>
+                  <item>4. <hi>Several Predictions relating to the preſent Poſture of Affairs in</hi> Europe.</item>
+               </list>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. A.</hi> and Entred according to Order. 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:53898:2"/>
+            <!-- PDF PAGE 69 -->
+            <pb n="3" facs="tcp:53898:2"/>
+            <!-- PDF PAGE 69 -->
+            <head>THE PRESENT and FUTURE CONDITION OF GERMANY.</head>
+            <p>AT this time, when <hi>Chriſtendome</hi> is alarm'd with a dreadful Invaſion from its <hi>Common Enemy,</hi> and the <hi>Imperial Eagle</hi> trembles under the Gripes of the <hi>Ottoman</hi> Fury, who is not curious to inquire both into the <hi>occaſion</hi> of this <hi>Incurſion,</hi> and what may rational<g ref="char:EOLhyphen"/>ly be expected as the Conſequence and <hi>Iſſue</hi> thereof?</p>
+            <p>The diſturbances of <hi>Hungary</hi> have a long time made a conſiderable Figure in the <hi>Gazetts</hi> of <hi>Europe:</hi> A great part of that Kingdom hath been ſubject to the <hi>Turk</hi> ever ſince its <hi>Metropolis Buda</hi> yielded to the vi<g ref="char:EOLhyphen"/>ctorious Arms of <hi>Solyman the Magnificent,</hi> in the year 1536. the reſt (with the Title of <hi>King of Hungary</hi>) was claimed by the <hi>Houſe of Auſtria,</hi> and ſo became annext to the <hi>Empire</hi> of <hi>Germany,</hi> under <hi>Ferdinand</hi> II. <hi>Anno</hi> 1624. But having formerly been an <hi>Elective</hi> Kingdom, the Inhabitants ſtill challeng'd certain <hi>Pri<g ref="char:EOLhyphen"/>viledges</hi> and Immunities, and the ſame were from
+<pb n="4" facs="tcp:53898:3"/>
+               <!-- PDF PAGE 70 -->time to time promiſed and confirmed to them by the Emperors; which being much <hi>infringed</hi> and viola<g ref="char:EOLhyphen"/>ted (as they alleadg'd) ſome years ſince, they (be<g ref="char:EOLhyphen"/>ing a Warlike People) betook themſelves to Arms.</p>
+            <p>But thô the greateſt part of them are <hi>Proteſtants,</hi> yet it was not upon the Account or pretence of <hi>Religion,</hi> that the firſt Inſurrection there began, but for their <hi>Ci<g ref="char:EOLhyphen"/>vil Liberties;</hi> and the moſt eminent Conſpirators were of the <hi>Roman Communion;</hi> however, the ſame being pretty well cruſht and ſuppreſs'd, the <hi>Jeſuites</hi> (too pre<g ref="char:EOLhyphen"/>valent in the Imperial Councils) contriv'd to take an advantage from the <hi>
+                  <g ref="char:V">Ʋ</g>mbrage</hi> of this Rebellion, to de<g ref="char:EOLhyphen"/>ſtroy and root out all thoſe of the <hi>Reformed Religion</hi> in that Kingdom; and ſtimulated the <hi>Miniſters of State</hi> to practiſe divers intolerable <hi>Rigors</hi> and Preſſures upon them; the Nature of which may partly appear from the <hi>Memorial</hi> of Count <hi>Oxenſtierne</hi> the King of <hi>Swedens</hi> Ambaſſador, preſented to his <hi>Imperial Majeſty</hi> in the year 1674. wherein are theſe words.</p>
+            <p>
+               <q>The <hi>Protestant Ministers,</hi> eſpecially in the Cities of <hi>Leopoldople, Capuarina, Camara,</hi> and others, have been moſt violently ſeized on, pillag'd, and in<g ref="char:EOLhyphen"/>ſolently abuſed; <hi>flea'd</hi> with ſtripes, <hi>starved</hi> with hunger and nakedneſs, thruſt down into moſt loathſome and <hi>horrible</hi> Priſons, amongſt <hi>Snakes</hi> and <hi>Toads;</hi> and ſo bound and <hi>manacled,</hi> that they want all means of defence to help themſelves againſt the <hi>Venomous</hi> Creatures: And where they are moſt fa<g ref="char:EOLhyphen"/>vourably dealt with, and ſuffered to live above ground, they are compelled to Imployments, not only <hi>ſervile</hi> and laborious, but the moſt <hi>filthy</hi> and <hi>noyſom</hi> that can be invented; loaded perpetually with <hi>Chains,</hi> more cruelly than thoſe that are guil<g ref="char:EOLhyphen"/>ty of the moſt grievous <hi>Parricides</hi> or <hi>Treaſons,</hi> with<g ref="char:EOLhyphen"/>out
+<pb n="5" facs="tcp:53898:3"/>
+                  <!-- PDF PAGE 70 -->out all Commiſeration, without any ſatiety or end of <hi>mocking</hi> and abuſing them; ſo that they lead a life, than which <hi>Hell</hi> it ſelf may ſeem more tolerable.</q>
+            </p>
+            <p>Thus was their Condition remonſtrated by that great Miniſter of State, but little amended or alleviated for his ſolicitations; for the perſecution was ſtill carry<g ref="char:EOLhyphen"/>ed on fiercely, and a great number of thoſe Prote<g ref="char:EOLhyphen"/>ſtant Miniſters ſold for <hi>Gally-ſlaves,</hi> were in <hi>Chains;</hi> divers of them <hi>periſhed,</hi> and ſome that ſurviv'd were at laſt releaſed by the Mediation of the <hi>Dutch</hi> Admi<g ref="char:EOLhyphen"/>ral. To preſerve themſelves from theſe <hi>Outrages,</hi> finding nothing leſs than the deſtruction of them and their Religion were deſigned, ſeveral of theſe <hi>Hunga<g ref="char:EOLhyphen"/>rians</hi> gathered together, and ſtood upon their own <hi>defence;</hi> and have ſome years been headed by Count <hi>Teckely,</hi> a Nobleman of that Kingdom: And thô ſe<g ref="char:EOLhyphen"/>veral Overtures have been made for accommodation, yet all being fruſtrated, and finding that their Bre<g ref="char:EOLhyphen"/>thren enjoyed under the <hi>Turk fairer Quarter</hi> than they could hope for under the Papiſts, they made their Complaints to the <hi>Port,</hi> ſubmitting themſelves to that power from whence they might expect protecti<g ref="char:EOLhyphen"/>on: And as their Diſloyalty and joyning with the Infidels is juſtly to be condemn'd, ſo neither can thoſe Councils be juſtified for Prudence or Piety, which by unneceſſary Severities reduced them to that deſpair, and the extremity of ſuch a Choice.</p>
+            <p>But the <hi>Grand Seignior</hi> regarding them now as his <hi>Vaſſals,</hi> begins a Quarrel on their behalf with the Em<g ref="char:EOLhyphen"/>peror, and taking the advantage of theſe diſtractions to inla<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge his Dominions (for amongſt Heathen Prin<g ref="char:EOLhyphen"/>cies, whatever are their pretences, Ambition and Glory are the Grounds of their Wars) employs his <hi>Vizier</hi> with a mighty Army of above an hundred
+<pb n="6" facs="tcp:53898:4"/>
+               <!-- PDF PAGE 71 -->thouſand men, to enter <hi>Chriſtendome;</hi> which like an irreſiſtable Torrent, carrying death and deſolation before it, has lately advanced to the Walls of <hi>Vienna,</hi> the chief City of <hi>Germany,</hi> and reſidence of the <hi>Impe<g ref="char:EOLhyphen"/>rial Court,</hi> which he inveſted on the fourteenth of <hi>Ju<g ref="char:EOLhyphen"/>ly</hi> laſt, and continues to Beſiege; the Emperor being forced to abandon the ſame for his ſafety.</p>
+            <p>This City is ſeated on the Banks of the <hi>Danubius,</hi> (one of the greateſt Rivers in the World) in the Arch-Dukedom of <hi>Auſtria;</hi> it contains in Circuit about 5000 Geometrical Paces, and is famous for its <hi>
+                  <g ref="char:V">Ʋ</g>niverſity,</hi> and for its Cathedral dedicated to St. <hi>Ste<g ref="char:EOLhyphen"/>phen,</hi> (the Steeple whereof is 465 Foot high, of hew<g ref="char:EOLhyphen"/>en Stone, curiouſly carved into various Figures) but eſpecially 'tis renowned for the Repulſe given to the Turks <hi>Ann.</hi> 1526. of whom <hi>two hundred thouſand</hi> un<g ref="char:EOLhyphen"/>der the conduct of <hi>Solyman</hi> the Magnificent, belea<g ref="char:EOLhyphen"/>guer'd it for a long time; but by the valour of <hi>Frede<g ref="char:EOLhyphen"/>rick</hi> the <hi>2d.</hi> Elector Palatine, and other Princes, they were forced to raiſe their Siege, and retire with the loſs of <hi>fourſcore thouſand</hi> men. And whether the <hi>Turk</hi> at this time may have any better ſucceſſe againſt it, is a queſtion; the <hi>Fortifications</hi> being much im<g ref="char:EOLhyphen"/>proved, a diſcreet and valiant Governour placed in it, and 18 thouſand Souldiers in Garriſon, beſides the <hi>Scholars</hi> and <hi>Burghers,</hi> and good ſtore of Proviſion and Ammunition laid in; yet the <hi>Vizier</hi> attacques it with all imaginable fury, and is prodigal of the lives of his Souldiers; it being affirmed that he hath alrea<g ref="char:EOLhyphen"/>dy loſt 20 thouſand of his men before it. Nor are the Chriſtian Princes wanting to gather together a ſtrength to repell theſe <hi>Mahumetans:</hi> The Duke of <hi>Lorrain</hi> has a conſiderable Force not above a day or two's March off; and only waits the coming up of
+<pb n="7" facs="tcp:53898:4"/>
+               <!-- PDF PAGE 71 -->the Auxiliary Troops, and eſpecially of the valiant <hi>King of Poland,</hi> who is reſolved in perſon to endea<g ref="char:EOLhyphen"/>vour the relief of this Imperial City, and is now up<g ref="char:EOLhyphen"/>on his March; and when once they are joyned, 'tis not doubted but we ſhall ſoon hear of a Battle, the fate of which will be of a vaſt importance to <hi>Europe:</hi> And for a good <hi>Omen</hi> we have already tydings, that the Duke of <hi>Lorrain,</hi> and part of the <hi>Poliſh</hi> Army have defeated ſome of the <hi>Turks,</hi> and <hi>Teckley</hi>'s Troops, and forced them to retire with conſiderable loſs.</p>
+            <p>For the Satisfaction of the <hi>Curious,</hi> I ſhall here ſub<g ref="char:EOLhyphen"/>joyn the Nativity of the preſent <hi>Grand Seignior</hi> or Em<g ref="char:EOLhyphen"/>peror of the <hi>Turks,</hi> as the ſame was communicated by a good hand from <hi>Conſtantinople,</hi> divers years ſince, and rectified by ſeveral remarkable Accidents; the <hi>Scheme,</hi> or true Poſition of the Heavens at the moment of his Birth being as followeth.</p>
+            <figure>
+               <figDesc>Natal chart (astrology)</figDesc>
+            </figure>
+            <pb n="8" facs="tcp:53898:5"/>
+            <!-- PDF PAGE 72 -->
+            <p>This <hi>Figure</hi> affords (according to the Rules of <hi>Aſtro<g ref="char:EOLhyphen"/>logy</hi>) divers Arguments of Grandeur, and illuſtri<g ref="char:EOLhyphen"/>ous Atchievements. All the Planets are in the <hi>Aſcend<g ref="char:EOLhyphen"/>ing</hi> part of Heaven: The <hi>Luminaries</hi> poſited upon the Aſcendant in <hi>Sextile</hi> of the <hi>Medium Coeli:</hi> A <hi>Reception</hi> between <hi>Saturn</hi> and <hi>Jupiter:</hi> And indeed the <hi>Scheme</hi> is very much with that of the great <hi>Auguſtus Caeſar,</hi> and in ſome reſpects more mighty and powerful, This <hi>Puiſſant Monarch</hi> at 17 years of Age (when his <hi>Horoſcope</hi> came to the <hi>Sextile</hi> of <hi>Mars,</hi> Lord of the An<g ref="char:EOLhyphen"/>gle of Soveraignty) came to the Throne; and when the Moon came to the like direction in the twenty ſe<g ref="char:EOLhyphen"/>cond year of his Age, he invaded <hi>Germany:</hi> Since that time he has for ſome years indulg'd himſelf in the ſoft delights of the <hi>Seraglio,</hi> and the diverſions of the <hi>Plains</hi> of <hi>Adrianople;</hi> But now his Aſcendant ap<g ref="char:EOLhyphen"/>proaching by <hi>Direction</hi> to the Body of <hi>Jupiter,</hi> like a Lyon rouzed up, ſhaking off that Trance of <hi>Inglo<g ref="char:EOLhyphen"/>rious Sloth,</hi> he begins again to threaten the Repoſe of <hi>Chriſtendom.</hi>
+            </p>
+            <p>'Tis obſervable, that this <hi>Inroad</hi> of the <hi>Turks</hi> was predicted ſome conſiderable time before it was un<g ref="char:EOLhyphen"/>dertaken: Witneſs, Mr. <hi>Holwel</hi>'s <hi>Cataſtrophe Mun<g ref="char:EOLhyphen"/>di,</hi> where in <hi>pag.</hi> 63. we have theſe words. — <q>A<g ref="char:EOLhyphen"/>bout the year 1531. began the <hi>Ottoman Family,</hi> un<g ref="char:EOLhyphen"/>der the Gubernation of a Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Gemini.</hi> Now is this Conjunction in <hi>Leo,</hi> 1682. in <hi>Sextile</hi> to that Conjunction preceed<g ref="char:EOLhyphen"/>ing the Riſe of the <hi>Ottoman</hi> Family: This ſhall cauſe that Monarch to thrive much; beſides, he at this time hath very good <hi>Directions</hi> in his Nativity; and foraſmuch as the Conjunction favours that mighty Prince, and afflicts the <hi>Roman</hi> Empire, therefore may it be conjectured, that <hi>he ſhall diſ<g ref="char:EOLhyphen"/>member</hi>
+                  <pb n="9" facs="tcp:53898:5"/>
+                  <!-- PDF PAGE 72 -->the <hi>Roman</hi> Empire of ſome of its Territores, and ſhall continue ſo doing for ſome years.</q>
+            </p>
+            <p>And before in <hi>p.</hi> 46. — <q>If the <hi>Ottoman</hi> Family had their Riſe under the Conjunction of <hi>Saturn</hi> and <hi>Jupiter</hi> in <hi>Scorpio,</hi> as it is verily believed, then ſhall that people afflict a great part of <hi>Chriſten<g ref="char:EOLhyphen"/>dom;</hi> for he has lately, or will very ſhortly change his <hi>Aphelion</hi> into <hi>Virgo;</hi> which doth ſhew, that thoſe People ſhall move out of their own Coun<g ref="char:EOLhyphen"/>trey in way of Conqueſt, and ſhall continue ſo doing for ſome years to come; even till they have made themſelves Maſters of a great part of <hi>Chri<g ref="char:EOLhyphen"/>ſtendom.</hi>
+               </q> And again, <hi>p.</hi> 79. ſpeaking to a potent Neighbouring Nation, he ſaith, — <q>Thou haſt been one cauſe of the <hi>Turks</hi> entring <hi>Europe;</hi> he will hardly return until he hath endangered thy Crown; and thou wilt repent when it is too late, for thy own Subjects will betray thee.</q> — This was written in the Summer, 1682. when there was no News or Proſpect of the preſent Invaſion.</p>
+            <p>The ſame Author in his <hi>Appendix</hi> is more po<g ref="char:EOLhyphen"/>ſitive; and averrs, That the <hi>Tranſit</hi> of <hi>Mars</hi> through <hi>Libra,</hi> doth threaten <hi>Auſtria</hi> with great Devaſtation, and alſo the <hi>taking of</hi> Vienna <hi>it ſelf; and the general Conquest of the East part of</hi> Germa<g ref="char:EOLhyphen"/>ny. And afterwards he threatens the <hi>Lillies</hi> to be blaſted by the Influences of the <hi>Creſcent.</hi> 
+               <q>And thou O <hi>Italy,</hi> haſt a great ſhare of this Cup of Gods Wrath; for great will be the Scar<g ref="char:EOLhyphen"/>city that ſhall be in thy fruitful Countrey; and the <hi>Turk</hi> will deſtroy with Fire and Sword, a great part of thy Famous Towns and Cities, and come even to the Gates of <hi>Rome,</hi> and ſack it as bad as the <hi>Gauls</hi> did, and will keep poſſeſſi<g ref="char:EOLhyphen"/>on,
+<pb n="10" facs="tcp:53898:6"/>
+                  <!-- PDF PAGE 73 -->and deſtroy it with Fire, and ſtrew Salt up<g ref="char:EOLhyphen"/>on it: Then will the Pope be forced to fly from place to place; and ſoon after there will be no more ſuch Cattle in the World.</q>
+            </p>
+            <p>Thus that Author, with much more to that purpoſe, eſpecially as to the declining Fortune of <hi>France;</hi> to whoſe Book we referr the Reader, as we do for the verity of thoſe predictions to Time, the Midwife of Truth: And indeed, who knows how far Providence may ſuffer theſe Infidels to be a Scourge to thoſe <hi>nominal Christians,</hi> who by their <hi>Idolatrous</hi> Ceremonies, and lewd <hi>Practices,</hi> have al<g ref="char:EOLhyphen"/>moſt utterly ſubverted the ſubſtance of <hi>Religion,</hi> and real Piety?</p>
+            <p>I ſhall conclude with the <hi>Divine Herbert,</hi> (for <hi>Poets</hi> are a ſort of <hi>Prophets</hi> too) who in his <hi>Church Militant</hi> ſeems to threaten a Tranſmigration of Re<g ref="char:EOLhyphen"/>ligion from the <hi>Old</hi> into the <hi>New</hi> World, in theſe latter Ages; which he thus expreſſes.</p>
+            <q>
+               <l>— It ſhall every year <hi>decreaſe</hi> and fade,</l>
+               <l>Till ſuch a <hi>Darkneſs</hi> do the World invade</l>
+               <l>At Christs <hi>laſt</hi> Coming, as his <hi>firſt</hi> did find:</l>
+               <l>Yet must there ſuch Proportions be aſſign'd</l>
+               <l>To theſe Diminiſhings, as is between</l>
+               <l>The ſpacious World, and <hi>Jury,</hi> to be ſeen.</l>
+               <l>Religion stands on <hi>Tip-toe</hi> in our Land,</l>
+               <l>Ready to paſs to the <hi>American</hi> Strand:</l>
+               <l>When heighth of <hi>Malice,</hi> and prodigious <hi>Luſts,</hi>
+               </l>
+               <l>Impudent <hi>Sinning,</hi> Witchcrafts and Diſtruſts,</l>
+               <l>(The marks of future <hi>Bane</hi>) ſhall fill our Cup</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nto the Brim, and make our meaſure up.</l>
+               <l>When <hi>Seine</hi> ſhall ſwallow <hi>Tiber,</hi> and the <hi>Thames</hi>
+               </l>
+               <l>By letting in them <hi>both</hi> pollutes her Streams;</l>
+               <pb n="11" facs="tcp:53898:6"/>
+               <!-- PDF PAGE 73 -->
+               <l>When <hi>Italy</hi> of us ſhall have her Will,</l>
+               <l>And all her <hi>Calender of Sins</hi> fulfill:</l>
+               <l>Whereby one may foretell what Sins next year</l>
+               <l>Shall both in <hi>France</hi> and <hi>England</hi> domineer:</l>
+               <l>Then ſhall Religion to <hi>America</hi> flee;</l>
+               <l>They have their times of Goſpel, ev'n as we.</l>
+               <l>My God!, thou dost prepare for them a way,</l>
+               <l>By carrying first their <hi>Gold</hi> from them astray:</l>
+               <l>For <hi>Gold</hi> and <hi>Grace</hi> did never yet agree;</l>
+               <l>Religion alwaies ſides with <hi>Poverty.</hi>
+               </l>
+               <l>Yet as the Church ſhall thither <hi>Weſtward</hi> fly,</l>
+               <l>So <hi>Sin</hi> ſhall trace and dog her Instantly;</l>
+               <l>That when they have accompliſhed the Round,</l>
+               <l>And met i'th' <hi>Eaſt,</hi> their first and ancient Ground,</l>
+               <l>
+                  <hi>Judgment</hi> may meet them both, and ſearch them round.</l>
+               <l>Thus do both <hi>Lights,</hi> as well in Church and Sun</l>
+               <l>Light one another, and together run.</l>
+               <l>Thus alſo <hi>Sin</hi> and <hi>Darkneſs</hi> follow still</l>
+               <l>The <hi>Church</hi> and <hi>Sun</hi> with all their Power and Skill;</l>
+               <l>But as the <hi>Sun</hi> still goes both <hi>Weſt</hi> and <hi>Eaſt,</hi>
+               </l>
+               <l>So alſo ſhall the <hi>Church</hi> by going <hi>Weſt</hi>
+               </l>
+               <l>Still <hi>Eaſt-ward</hi> go, becauſe it draws more near</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o'th' <hi>Time</hi> and <hi>Place</hi> where <hi>Judgment</hi> ſhall appear.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
